@@ -9,7 +9,6 @@
                 <label>Geboortedatum</label>
                 <input type="date" class="form-control" name="geboortedatum" placeholder="Geboortedatum"  >
                 <button type="button" name="next" class="btn btn-primary next1" style="margin-top: 1em">Next</button>
-
             </div>
 <!--PAGE 2-->
             <div class="form-group step2" style="width: 100%">

@@ -16,7 +16,7 @@ if ($_SESSION['loggedin']){
         ?>
         <link type="text/css" rel="stylesheet" href="styling/css/custom.css">
     </head>
-    <body background="styling/backgroundsss.png">
+    <body>
 
         <!-- Wrapper div -->
         <div id="wrapper">
@@ -25,7 +25,6 @@ if ($_SESSION['loggedin']){
             <div id="header" class="col-sm-12">
                 <?php
                     include('parts/header.php'); // File containing header code
-
                 ?>
             </div>
 

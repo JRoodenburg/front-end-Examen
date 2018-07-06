@@ -6,3 +6,7 @@ input[type=radio] {
 .step3{width: 100%;}
 .step4{width: 100%;}
 .step5{width: 100%;}
+
+body{
+    background-image: url("/froExamen/styling/Backgroundsss.png");
+}
